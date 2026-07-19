@@ -23,3 +23,9 @@ Most of them are designed for Linux and released as open source.
 - **Installs without sudo** — `bash install.sh` builds a local virtualenv and drops a launcher on your desktop and in your app menu. Nothing touches the system unless you ask it to.
 - **Bilingual** — README and UI in both English and Chinese.
 - **Works offline** — no accounts, no telemetry, nothing phones home.
+
+---
+
+### Elsewhere
+
+- **bilibili** — [space.bilibili.com/1057350470](https://space.bilibili.com/1057350470)
